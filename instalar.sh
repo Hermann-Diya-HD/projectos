@@ -12,7 +12,6 @@ mv jdk1.8.0_201/ /usr/lib/java
 sudo update-alternatives --install "/usr/bin/java" "java" "/usr/lib/java/jdk1.8.0_201/bin/java" 1
 sudo update-alternatives --install "/usr/bin/javac" "javac" "/usr/lib/java/jdk1.8.0_201/bin/javac" 1
 sudo update-alternatives --install "/usr/bin/javaws" "javaws" "/usr/lib/java/jdk1.8.0_201/bin/javaws" 1
-gedit ~/.bashrc file
 
 ##adicionar estas linhas
 
